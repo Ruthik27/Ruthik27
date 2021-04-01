@@ -20,9 +20,8 @@
 .xb { border-radius : 50px; }
 </style>
 
-
 <div class = "xb">
-<img class = "xb" align = "right" alt="Coding" width="450" src="src/Designer.gif>
+<img class = "xb" align = "right" alt="Coding" width="450" src="src/Designer.gif">
 </div>
 
 <spam align = "left">
@@ -41,6 +40,7 @@
 
 
 <h3 align="">Connect with me:</h3>
+
 <style type='text/css'>
 .xc { margin : 30px; }
 </style>
