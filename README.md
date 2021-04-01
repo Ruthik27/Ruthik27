@@ -1,19 +1,13 @@
 
 
 <h3 align="center">A passionate Data Science Geek from India</h3>
+<p align="center"> <em>"Your personal brand is what people say about you when you are not in the room"</em> </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ruthik27&label=Profile%20views&color=0e75b6&style=flat" alt="ruthik27" /> </p>
 
 
 
-![Ruthik's GitHub stats](https://github-readme-stats.vercel.app/api?username=ruthik27&show_icons=true&theme=dracula&show_icons=true&count_private=True)
-
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=khushboogoel01&label=Profile%20views&color=129e00&style=plastic" alt="khushboogoel01" /> </p>
-
-
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ruthik27&show_icons=true&theme=dracula&show_icons=true&count_private=True&include_all_commits=true&locale=en" alt="ruthik27" /></p>
 
 
 <style type='text/css'>
@@ -25,6 +19,19 @@
 </div>
 
 <spam align = "left">
+
+
+<img src = "https://raw.githubusercontent.com/iconic/open-iconic/master/svg/[github].svg">
+
+Profile identity 
+Social media
+Hard skills 
+Professional tools
+Medium latest article
+GitHub activity
+
+
+
 
 - 🔭 I’m currently working on **AI/ML**
 
@@ -68,13 +75,13 @@
 ![Perman's GitHub stats](https://github-readme-stats.vercel.app/api?username=ruthik27&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&show_owner=true)
 
 
+<img align="left" alt="audhiaprilliant's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ruthik27&show_icons=true&hide_border=true" />
 
-hide_rank
+
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ruthik27&show_icons=true&locale=en&layout=compact" alt="ruthik27" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ruthik27&include_all_commits=true&show_icons=true&locale=en" alt="ruthik27" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ruthik27&" alt="ruthik27" /></p>
 
