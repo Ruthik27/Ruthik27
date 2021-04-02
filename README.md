@@ -62,9 +62,13 @@
 <br/>
 <br/>
 --->
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ruthik27&theme=radical" alt="ruthik27" /></p>
+
+<p align="center" >
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ruthik27&theme=radical" alt="ruthik27" />
+</p>
 
 ---
+
 <h3 align="left">Connect with me:</h3>
 <p align="center" >
 <a class = "xc" href="https://www.linkedin.com/in/ruthik-kale-795a09190/" target="blank"><img src="https://www.svgrepo.com/show/157006/linkedin.svg" alt="ruthik kale" height="30" width="40" /></a>
