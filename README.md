@@ -1,8 +1,7 @@
 ### Hi there 👋
 
-<!--
-**Ruthik27/Ruthik27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+<!-- **Ruthik27/Ruthik27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-->
 <h3 align="center">A passionate Data Science Geek from India</h3>
 <p align="center"> <em>"Your personal brand is what people say about you when you are not in the room"</em> </p>
 
