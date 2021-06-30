@@ -79,4 +79,5 @@
 <a class = "xc" href="https://www.linkedin.com/in/ruthik-kale-795a09190/" target="blank"><img src="https://www.svgrepo.com/show/157006/linkedin.svg" alt="ruthik kale" height="30" width="40" /></a>
 <a class = "xc" href="https://www.instagram.com/_perman_20/" target="blank"><img src="https://www.svgrepo.com/show/303145/instagram-2-1-logo.svg" alt="ruthik kal" height="30" width="40" /></a>
 <a class = "xc" href="https://github.com/Ruthik27" target="blank"><img src="https://www.svgrepo.com/show/217753/github.svg" alt="ruthik ka" height="30" width="40" /></a>
+<a class = "xc" href="https://www.kaggle.com/ruthikkale" target="blank"><img src="https://www.svgrepo.com/show/306288/kaggle.svg" alt="ruthik k" height="30" width="40" /></a>
 </p>
