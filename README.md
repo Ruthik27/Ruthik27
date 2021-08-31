@@ -8,7 +8,7 @@
 ---
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ruthik27&label=Profile%20views&color=0e75b6&style=flat" alt="ruthik27" /> </p>
-*Stats shown here are only based on public Repos.*
+*Stats on public Repos.*
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ruthik27&show_icons=true&theme=radical&show_icons=true&count_private=True&include_all_commits=true&locale=en" alt="ruthik27" /></p>
 
 <img  align = "right" alt="Coding" width="450" src="src/Designer.gif">
