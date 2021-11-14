@@ -57,7 +57,9 @@ https://www.cloudskillsboost.google/public_profiles/93ac794c-affa-43c4-b837-f4ab
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ruthik27&repo=Grease-Monkey" />
 </a>
 -->
+<!---
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ruthik27&theme=monokai&no-bg=true&no-frame=true&margin-w=30&column=4&row=2&rank=S,B,C,A,SECRET&theme=radical" alt="ruthik27" /></a> </p>
+-->
 <!---
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ruthik27&show_icons=true&locale=en&layout=compact&theme=radical" alt="ruthik27" />
 </p>
