@@ -70,9 +70,7 @@
 <br/>
 --->
 
-<p align="center" >
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ruthik27&theme=radical" alt="ruthik27" />
-</p>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=ruthik27&theme=dark)](https://git.io/streak-stats)
 
 ---
 
