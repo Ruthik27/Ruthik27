@@ -1,19 +1,35 @@
-### Hi there 👋
+# Welcome to My GitHub Profile!
+<img  align = "right" alt="banner" src = "src/banner_01.gif">
 
-<!-- **Ruthik27/Ruthik27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
-<h3 align="center">A passionate Data Science Geek from India</h3>
+<h3 align="center">A passionate Computer Science Geek</h3>
 <p align="center"> <em>"I turn coffee into code!"</em> </p>
 
 ---
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ruthik27&label=Profile%20views&color=0e75b6&style=flat" alt="ruthik27" /> </p>
-*Stats on public Repos.*
-<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ruthik27&show_icons=true&theme=radical&show_icons=true&count_private=True&include_all_commits=true&locale=en" alt="ruthik27" /></p>
--->
-<img  align = "right" alt="Coding" width="450" src="src/Designer.gif">
 
-<spam align = "left">
+*Stats on public Repos.*
+
+<!--
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ruthik27&show_icons=true&theme=radical&show_icons=true&count_private=True&include_all_commits=true&locale=en" alt="ruthik27" /></p>
+-->
+
+---
+## About Me
+I'm passionate about technology and constantly seeking opportunities to expand my knowledge and skills. With a background in [mention your field or area of expertise], I love working on diverse projects and exploring new technologies. I enjoy collaborating with like-minded individuals and contributing to open-source communities.
+
+## What You'll Find Here
+In my repositories, you'll find a wide range of projects, including but not limited to:
+
+- **[Project Name 1](link-to-repo)**: A brief description of the project and its purpose.
+- **[Project Name 2](link-to-repo)**: An overview of the project and its key features.
+- **[Project Name 3](link-to-repo)**: How this project addresses a specific challenge and the solutions it offers.
+
+I believe in continuous learning and improvement, so you might come across repositories that showcase my experiments, prototypes, and learning projects. Feel free to explore and provide feedback if you find anything interesting or have suggestions for improvement.
+
+## Get in Touch
+I'm always open to connecting with fellow developers, tech enthusiasts, and potential collaborators. You can reach me through the following channels:
+
 
 - 🔭 I’m currently working on **ML Model Building**
 
@@ -25,6 +41,10 @@
 
 - 📫 How to reach me **ruthikkale27@gmail.com**
 </spam>
+
+<img  align = "right" alt="Coding" width="450" src="src/Designer.gif">
+
+<spam align = "left">
 
 <!---
 <h3 align="left">Languages and Tools:</h3>
