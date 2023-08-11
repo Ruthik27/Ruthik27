@@ -1,3 +1,6 @@
+<!-- Profile views till now -->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ruthik27&label=Profile%20views&color=0e75b6&style=flat" alt="ruthik27" /> </p>
+
 # Welcome to My GitHub Profile!
 <!--Banner added - created by using Canva -->
 <img  align = "right" alt="banner" src = "src/banner_01.gif">
@@ -5,8 +8,7 @@
 <h3 align="center">A passionate Computer Science Geek</h3>
 <p align="center"> <em>"I turn coffee into code!"</em> </p>
 
-<!-- Profile views till now -->
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ruthik27&label=Profile%20views&color=0e75b6&style=flat" alt="ruthik27" /> </p>
+
 
 <img  align = "center" alt="Coding" width="450" src="src/Designer.gif">
 <!-- 
