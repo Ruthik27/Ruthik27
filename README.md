@@ -162,7 +162,7 @@ Badges over here
  <a class = "xc" href="https://www.cloudskillsboost.google/public_profiles/93ac794c-affa-43c4-b837-f4abcf705138" target="blank"><img src="https://www.svgrepo.com/show/353805/google-cloud.svg" alt="ruthik k" height="40" width="40" /></a>
  <a class = "xc" href="https://medium.com/@ruthikkale27" target="blank"><img src="https://www.svgrepo.com/show/306392/medium.svg" alt="ruthik" height="40" width="40" /></a>
  <a class = "xc" href="https://www.linkedin.com/in/ruthik-kale/" target="blank"><img src="https://www.svgrepo.com/show/157006/linkedin.svg" alt="ruthik kale" height="40" width="40" /></a>
- <a class = "xc" href="https://www.instagram.com/_perman_22/" target="blank"><img src="https://www.svgrepo.com/show/303145/instagram-2-1-logo.svg" alt="ruthik kal" height="40" width="40" /></a>
+ <a class = "xc" href="https://www.instagram.com/ruthik_kale/" target="blank"><img src="https://www.svgrepo.com/show/303145/instagram-2-1-logo.svg" alt="ruthik kal" height="40" width="40" /></a>
  <a class = "xc" href="https://github.com/Ruthik27" target="blank"><img src="https://www.svgrepo.com/show/217753/github.svg" alt="ruthik ka" height="40" width="40" /></a>
  <a class = "xc" href="https://www.kaggle.com/ruthikkale" target="blank"><img src="https://www.svgrepo.com/show/306288/kaggle.svg" alt="ruthik k" height="40" width="40" /></a>
 </p>
