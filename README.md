@@ -13,10 +13,20 @@
 
 
 
-<img  align = "center" alt="Coding" width="450" src="src/Designer.gif">
+<table>
+  <tr>
+    <!-- Image cell with specified width -->
+    <td style="width:50%;">
+      <img alt="Coding" style="width:100%; max-width: 400px;" src="src/Designer.gif">
+    </td>
+    <!-- Text cell with specified width -->
+    <td style="width:50%;">
+      <h2>About Me</h2>
+      <p>I'm a passionate Computer Science Geek with a strong background in computer engineering and a deep interest in data science. Currently, I'm enhancing my skills in advanced representation learning, distributed systems, and modern statistical programming. I love tackling challenging problems, particularly in data analytics, machine learning, and web development.</p>
+    </td>
+  </tr>
+</table>
 
-## About Me
-I'm a passionate Computer Science Geek with a strong background in computer engineering and a deep interest in data science. Currently, I'm enhancing my skills in advanced representation learning, distributed systems, and modern statistical programming. I love tackling challenging problems, particularly in data analytics, machine learning, and web development.
 
 
 --- 
