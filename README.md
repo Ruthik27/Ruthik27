@@ -16,7 +16,7 @@
 <table>
   <tr>
     <td>
-      <img alt="Coding" width="2000" src="src/Designer.gif">
+      <img alt="Coding" width="450" src="src/Designer.gif">
     </td>
     <td>
       <h2>About Me</h2>
