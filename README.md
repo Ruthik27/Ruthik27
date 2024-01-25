@@ -5,62 +5,20 @@
 <!--Banner added - created by using Canva -->
 <img  align = "right" alt="banner" src = "src/banner_01.gif">
 <!--Add readme-typing-svg - replace the below lines with it -->
-<h3 align="center">A passionate Computer Science Geek</h3>
-<p align="center"> <em>"I turn coffee into code!"</em> </p>
+<p align="center">
+   <em>"I turn coffee into code!"</em> <br>
+   🎓 Master’s in Computer Science at University of Georgia <br>
+   👨‍💻 Graduate Research Assistant, ITOS Division at Carl Vision Institute of Government
+</p>
 
 
 
 <img  align = "center" alt="Coding" width="450" src="src/Designer.gif">
-<!-- 
+
 ## About Me
-I'm passionate about technology and constantly seeking opportunities to expand my knowledge and skills. With a background in [mention your field or area of expertise], I love working on diverse projects and exploring new technologies. I enjoy collaborating with like-minded individuals and contributing to open-source communities.
-
-## What You'll Find Here
-In my repositories, you'll find a wide range of projects, including but not limited to:
-
-- **[Project Name 1](link-to-repo)**: A brief description of the project and its purpose.
-- **[Project Name 2](link-to-repo)**: An overview of the project and its key features.
-- **[Project Name 3](link-to-repo)**: How this project addresses a specific challenge and the solutions it offers.
-
-I believe in continuous learning and improvement, so you might come across repositories that showcase my experiments, prototypes, and learning projects. Feel free to explore and provide feedback if you find anything interesting or have suggestions for improvement.
+I'm a passionate Computer Science Geek with a strong background in computer engineering and a deep interest in data science. Currently, I'm enhancing my skills in advanced representation learning, distributed systems, and modern statistical programming. I love tackling challenging problems, particularly in data analytics, machine learning, and web development.
 
 
-
-- 🔭 I’m currently working on **ML Model Building**
-
-- 🌱 I’m currently learning **Data Science**
-
-- 👯 I’m looking to collaborate on **Data Science Projects**
-
-- 💬 Ask me about **Web Scrapping**
-
-- 📫 How to reach me **ruthikkale1@gmail.com**
-<br>
--->
-
-
-
-<!--
-## &#x1f4c8; GitHub Stats
-<a href="https://github.com/ruthik27">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ruthik27&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-
-<a href="https://github.com/Ruthik27">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=Ruthik27&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Ruthik's GitHub Stats" />
-</a>
--->
-
-
-
-
-
-
-<!--
-<h3 align="left">Languages and Tools:</h3>
-<h4>Web Develops:</h4>
-<a href="https://www.djangoproject.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" 
--->
 --- 
 <br>
 <details> 
@@ -128,21 +86,6 @@ I believe in continuous learning and improvement, so you might come across repos
   </p>
 </details>
 
-
-<!--
-Extra Pins over here:
-<a href="https://github.com/Ruthik27/Web-Scrapping">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=ruthik27&repo=Web-Scrapping" />
-</a>
-<a href="https://github.com/Ruthik27/Grease-Monkey">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=ruthik27&repo=Grease-Monkey" />
-</a>
--->
-
-<!--
-Badges over here
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ruthik27&theme=monokai&no-bg=true&no-frame=true&margin-w=30&column=4&row=2&rank=S,B,C,A,SECRET&theme=radical" alt="ruthik27" /></a> </p>
--->
 
 ---
 <p align="center" >
