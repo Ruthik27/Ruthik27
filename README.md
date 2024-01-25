@@ -2,8 +2,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ruthik27&label=Profile%20views&color=0e75b6&style=flat" alt="ruthik27" /> </p>
 
 # Welcome to My GitHub Profile!
-<!--Banner added - created by using Canva -->
-<img  align = "right" alt="banner" src = "src/banner_01.gif">
+<!--Banner added - created by using Canva 
+<img  align = "right" alt="banner" src = "src/banner_01.gif"> -->
 <!--Add readme-typing-svg - replace the below lines with it -->
 <p align="center">
    <em>"I turn coffee into code!"</em> <br>
@@ -22,7 +22,7 @@
       <h2>About Me</h2>
       <p>🚀 Hi there, I'm Ruthik! A Master’s student in Computer Science at the University of Georgia, blending a solid background in Computer Engineering with a passion for Data Science. I thrive on challenges, especially those that expand the boundaries of knowledge and technology.
 
-🤖 At the heart of my work lies a commitment to data-driven decision making and innovation. Whether it's implementing deep learning solutions for humanitarian aid, optimizing data analytics in financial sectors, or crafting intelligent algorithms for predictive modeling, I am all about turning complex ideas into impactful realities.
+🤖 At the heart of my work lies a commitment to data-driven decision-making and innovation. Whether it's implementing deep learning solutions for humanitarian aid, optimizing data analytics in financial sectors, or crafting intelligent algorithms for predictive modeling, I am all about turning complex ideas into impactful realities.
 
 💡 I'm on a quest to harness the power of technology to make a meaningful difference. Let's connect and explore the limitless possibilities of the tech world together!</p>
     </td>
