@@ -11,18 +11,20 @@
    👨‍💻 Graduate Research Assistant, ITOS Division at Carl Vision Institute of Government
 </p>
 
-
+<br>
 
 <table>
   <tr>
-    <!-- Image cell with specified width -->
-    <td style="width:50%;">
-      <img alt="Coding" style="width:100%; max-width: 400px;" src="src/Designer.gif">
+    <td>
+      <img alt="Coding" width="2000" src="src/Designer.gif">
     </td>
-    <!-- Text cell with specified width -->
-    <td style="width:50%;">
+    <td>
       <h2>About Me</h2>
-      <p>I'm a passionate Computer Science Geek with a strong background in computer engineering and a deep interest in data science. Currently, I'm enhancing my skills in advanced representation learning, distributed systems, and modern statistical programming. I love tackling challenging problems, particularly in data analytics, machine learning, and web development.</p>
+      <p>🚀 Hi there, I'm Ruthik! A Master’s student in Computer Science at the University of Georgia, blending a solid background in Computer Engineering with a passion for Data Science. I thrive on challenges, especially those that expand the boundaries of knowledge and technology.
+
+🤖 At the heart of my work lies a commitment to data-driven decision making and innovation. Whether it's implementing deep learning solutions for humanitarian aid, optimizing data analytics in financial sectors, or crafting intelligent algorithms for predictive modeling, I am all about turning complex ideas into impactful realities.
+
+💡 I'm on a quest to harness the power of technology to make a meaningful difference. Let's connect and explore the limitless possibilities of the tech world together!</p>
     </td>
   </tr>
 </table>
@@ -95,6 +97,7 @@
       <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
   </p>
 </details>
+
 
 
 ---
