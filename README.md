@@ -82,14 +82,13 @@
 
 [![ML Tools](https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv,anaconda,jupyter&theme=dark&perline=6)](https://skillicons.dev)
 
-<!-- Shields for tools not in skillicons -->
 <p>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/CatBoost-FFD700?style=for-the-badge&logo=catboost&logoColor=black" />
-  <img src="https://img.shields.io/badge/LightGBM-9ACD32?style=for-the-badge&logo=lightgbm&logoColor=black" />
-  <img src="https://img.shields.io/badge/XGBoost-EC7414?style=for-the-badge&logo=xgboost&logoColor=white" />
-  <img src="https://img.shields.io/badge/Optuna-00BFFF?style=for-the-badge&logo=optuna&logoColor=white" />
+  <img src="https://img.shields.io/badge/CatBoost-FFD700?style=for-the-badge&logo=python&logoColor=black" />
+  <img src="https://img.shields.io/badge/LightGBM-9ACD32?style=for-the-badge&logo=python&logoColor=black" />
+  <img src="https://img.shields.io/badge/XGBoost-EC7414?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Optuna-00BFFF?style=for-the-badge&logo=python&logoColor=white" />
 </p>
 
 ### ☁️ MLOps & Cloud
@@ -125,7 +124,15 @@
 
 ---
 
-## 📈 GitHub Stats
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Ruthik27&theme=tokyonight&no-frame=true&row=1&column=7" alt="trophy" />
+</p>
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ruthik27&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
@@ -134,6 +141,22 @@
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ruthik27&theme=tokyonight&hide_border=true" alt="Ruthik27's streak" />
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Ruthik27/Ruthik27/output/github-snake-dark.svg" alt="snake animation" />
+</p>
+
+---
+
+## 📊 3D Contribution Graph
+
+<p align="center">
+  <img src="./profile-3d-contrib/profile-season-animate.svg" alt="3D Contribution Graph" />
 </p>
 
 ---
