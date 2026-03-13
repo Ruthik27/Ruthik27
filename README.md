@@ -31,12 +31,12 @@
 
 💡 Open to **ML System Design, MLOps, and Cloud-Native Predictive Analytics** roles.
 
-    </td>
+
   </tr>
 </table>
 
 ---
-
+<!--
 ## 💼 Experience
 
 **🟢 Machine Learning Specialist** — *Florida Gulf Coast University* (Apr 2025 – Present)
@@ -62,13 +62,13 @@
 - Designed Power BI dashboards with DAX/SQL/Python, driving ~25–35% improvements in conversion and BI adoption
 
 ---
-
+-->
 ## 🎓 Education
 
 | Degree | Institution | Details |
 |---|---|---|
-| **MS, Computer Science** | University of Georgia | Full tuition waiver via TA performance |
-| **BE, Computer Engineering** | Savitribai Phule Pune University (AISSMS IOIT) | First class with Distinction & Honors in Data Science |
+| **MS, Computer Science** | University of Georgia | Full tuition waiver via Teaching & Research Assistantship |
+| **BE, Computer Engineering** | Pune University | First class with Distinction & Honors in Data Science |
 
 ---
 
@@ -123,7 +123,7 @@
 [![Tools](https://skillicons.dev/icons?i=vscode,postman,selenium,latex&theme=dark&perline=4)](https://skillicons.dev)
 
 ---
-
+<!--
 ## 🏆 GitHub Trophies
 
 <p align="center">
@@ -131,7 +131,7 @@
 </p>
 
 ---
-
+-->
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -152,7 +152,7 @@
 </p>
 
 ---
-
+<!--
 ## 📊 3D Contribution Graph
 
 <p align="center">
@@ -180,7 +180,7 @@
 | **HR Analytics Dashboard** | Power BI dashboard for employee attrition & salary analytics | Power BI, DAX, SQL |
 
 ---
-
+-->
 ## 🤝 Connect with Me
 
 <p align="left">
