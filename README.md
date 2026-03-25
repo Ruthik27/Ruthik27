@@ -194,3 +194,5 @@
 
 <!-- Capsule Render Footer -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00d2ff,50:2ea0ff,100:6e40c9&height=120&section=footer" />
+
+<!-- Updated 2026 -->
